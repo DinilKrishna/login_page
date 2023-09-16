@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+    
+}
+
+body{
+    background-image: url('../images/wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Roboto;
+}
+#error {
+    color: rgb(218, 0, 0);
+    font-size: 20px;
+    margin-top: 5px;
+}

@@ -1,0 +1,19 @@
+body{
+    background-image: url('../images/sunrise.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.items{
+    align-items: center;
+    padding: 10px;
+}
